@@ -1,0 +1,21 @@
+AnclajeH - Módulo hembra del adaptador universal.
+AnclajeM - Múdulo macho del adaptador universal.
+AdaptadorSonar - Soporte parad un medidor de distancia ultrasónico orientable.
+Bandeja - Base de montaje para un Arduino Due.
+ChasisUniversal - Chasis principal del robot con espacio para los motores y anclajes diversos.
+Llanta2 y Llanta4 - Dos modelos de ruedas.
+PinzaBase - Soporte para pinzas con dos ancljes universales.
+PinzaLibre - Mitad de la pinza movida por la que va sujeta al servomotor.
+PinzaServo - Mitad de la pinza sujeta al servomotor.
+PinzaSuperior - Tapa del soporte para la pinza.
+SoporteMiniServo - Anclaje con alojamiento para un miniservo. Se usa para el medidor ultrasónico orientable, entre otros.
+SoporteRueda - Anclaje con soporte para la rueda loca del robot.
+SoporteTablet - Bandeja en la que se coloca la tablet.
+Tapa - Pieza superior del chasis que sujeta los anclajes universales y soporta la bandeja del Arduino.
+TapaPB - Pieza superior del chasis con soporte para PowerBank específico.
+CARPETA BaseDue - Nada que ver.
+CARPETA Diego - Nada que ver..
+CARPETA Anclaje - Imágenes de los anclajes univeersales hembra y macho.
+CARPETA Anteriores - Algunos diseños previos probablemente desechados.
+CARPETA Módulos - Bandeja especial para la tablet Nexus4.
+CARPETA V2 - Versión más refinada del robot y los anclajes (aún no impresa ni probada).
